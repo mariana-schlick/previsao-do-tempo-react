@@ -47,7 +47,7 @@ function App() {
   return (
     <div>
       <div className="title">
-        <img src="src/assets/title.png" alt="Title" />
+        <img src="/public/title.png" alt="Title" />
       </div>
       <div className='container'>
         <input
