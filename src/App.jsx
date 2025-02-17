@@ -47,7 +47,7 @@ function App() {
   return (
     <div>
       <div className="title">
-        <img src="/previsao-do-tempo-react/public/title.png" alt="Title" />
+        <img src=".//title.png" alt="Title" />
       </div>
       <div className='container'>
         <input
